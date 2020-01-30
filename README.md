@@ -1,10 +1,10 @@
-# iploggerfilter - Piperun iploggerfilter fork
+# SMH filter/iploggerfilter - Piperun iploggerfilter fork
 A regularly updated filter to block IP loggers and malicious websites
 
 ## Installation
 
 ### Automatic (Adblock Plus, uBlock Origin)
-  Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/icantcodesmh/iploggerfilter/master/filterlist&title=Piperun%27s%20iplogger%20filter)
+  Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/icantcodesmh/iploggerfilter/master/filterlist&title=SMH%20filter)
   
 ### Manual (uBlock Origin)
 
