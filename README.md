@@ -1,10 +1,10 @@
-# iploggerfilter
-This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any site/subsite who's only purpose is to log your IP
+# iploggerfilter - Piperun iploggerfilter fork
+A regularly updated filter to block IP loggers and malicious websites
 
 ## Installation
 
 ### Automatic (Adblock Plus, uBlock Origin)
-  Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%27s%20iplogger%20filter)
+  Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/icantcodesmh/iploggerfilter/master/filterlist&title=Piperun%27s%20iplogger%20filter)
   
 ### Manual (uBlock Origin)
 
@@ -14,7 +14,7 @@ This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any s
   - Copy and paste into the textbox:
   
   ```
-  https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
+  https://raw.githubusercontent.com/icantcodesmh/iploggerfilter/master/filterlist
   ```
   
   - Now there should appear a yellow button called "Parse", click it
